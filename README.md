@@ -41,10 +41,10 @@ Out of 1,200 total cases, **241 remain In Progress** and **176 are Pending**. Th
 ---
 
 ## 🖥️ Dashboard UI Layout
-*(Replace the placeholder below with a screenshot of your clean Excel Pivot Dashboard)*
 
-![Banking Dashboard Overview](<img width="1825" height="877" alt="image" src="https://github.com/user-attachments/assets/dd1d36a7-e38a-40a7-b515-7ab85ae476d9" />
-)
+<img width="1825" height="877" alt="image" src="https://github.com/user-attachments/assets/847c524b-6021-4a38-a95a-548b838a7329" />
+
+
 
 ---
 
